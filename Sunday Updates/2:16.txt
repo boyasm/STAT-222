@@ -1,0 +1,34 @@
+Matt Boyas
+STAT 222
+16 February 2014
+Sunday Update
+
+This week I spent time on the following items.
+
+(1)
+I spent a good portion of the beginning of the week working with the
+Python materials from class, trying to attain a comfortable working
+knowledge of the language to allow me to proceed with the project.
+
+(2)
+I made revisions to my project proposal for resubmission this coming
+Wednesday, February 19.
+
+(3)
+I completed the research phase of my literature review.
+
+(4)
+I continued experimenting with iPython and the pandas library, using
+Wes McKinney's book as a supplement to the introduction that we
+received in class.  I reworked and simplified my code from last week
+that created the indicator variable, and I recoded all missing values
+in my main dataset as the NumPy NaN character.  I also ran some very
+preliminary correlation analyses (mainly to see if I could actually run them in Python).
+
+Goals for the upcoming week:
+I plan on using this coming week to make a significant amount of
+progress on my project.  I would like to run some more comprehensive
+preliminary analyses, and I would like to begin the creation of some
+of the graphs and diagrams that I outlined in my proposal.  Hopefully
+at the end of the week, I will have enough of an idea about how my
+dataset behaves to begin running regressions and exploring models.
