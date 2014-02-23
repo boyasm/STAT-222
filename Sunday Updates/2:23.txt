@@ -1,0 +1,41 @@
+Matt Boyas
+STAT 222
+23 February 2014
+Sunday Update
+
+This week I spent time on the following items.
+
+(1)
+Unfortunately, I made some errors in what I did last week, so I had to
+redo some of the code to code certain observations as missings.
+
+(2)
+I removed duplicate rows in my core dataset according to the
+documentation provided online.
+
+(3)
+I began the process of making figures for my final paper,
+experimenting with Matplotlib in the process.  I chose a color palette
+for my paper (one that should be both accomodating to colorblind
+people as well as printing the paper on a greyscale printer). One plot
+is finalized (with some help from Victoria with regards to axis
+numbers), and other plots are in varying stages of completion.
+
+(4)
+I ran some preliminary correlations between variables in my dataset to
+see if the data behaves the way I might expect it to.  The short
+answer to that exercise is that there weren't any real surprises.  I
+think, therefore, that I now have a decent-enough handle on my data to
+begin building some models.
+
+
+
+Goals for the upcoming week:
+(1)
+Continue making figures and tables.
+
+(2)
+Start running regressions
+
+(3)
+Begin the process of merging in external datasets with more variables
