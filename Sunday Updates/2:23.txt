@@ -15,7 +15,7 @@ documentation provided online.
 
 (3)
 I began the process of making figures for my final paper,
-experimenting with Matplotlib in the process.  I chose a color palette
+experimenting with Matplotlib.  I chose a color palette
 for my paper (one that should be both accomodating to colorblind
 people as well as printing the paper on a greyscale printer). One plot
 is finalized (with some help from Victoria with regards to axis
