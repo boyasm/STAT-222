@@ -1,0 +1,34 @@
+Matt Boyas
+STAT 222
+2 March 2014
+Sunday Update
+
+This week I spent time on the following items.
+
+(1)
+I merged three additional datasets into my main datset from a variety
+of locations.  Two of them were easy 1:1 merges, while the third
+required a bit of manipulation before the merge could take place.
+
+(2)
+I decided to exclude multi-year conflicts for the time being to make
+the merge easier because everything else is measured on a yearly level.
+
+(3)
+I continued making the figures and tables as specified in my research
+proposal.  I adjusted some of the plots slightly from my original
+descriptions as I started to work with the data and discovered that my
+original ideas created useless plots.  Most of the basic summary
+figures and tables are now complete.
+
+(4)
+I have started working on some generic code to split my dataset into
+training and testing sets, something that will become useful next
+week.  Which leads me to the following...
+
+
+Goals for the upcoming week:
+Next week is regression week!  I have most everything set to go for that,
+and it's time to start building some models and seeing what happens.
+Then I just need to create a presentation and organize my work, and I
+will be all set for the midterm requirements.
