@@ -1,0 +1,40 @@
+Matt Boyas
+STAT 222
+9 March 2014
+Sunday Update
+
+This week I spent time on the following items.
+
+(1)
+I worked on modeling the death/nodeath indicator.  I have a logistic
+regression that seems to do a decent job, as well as a K nearest
+neighbors.  They seem to predict at similar rates, and I plan on
+including both in the midterm submission.
+
+(2)
+I tried to model the counts of deaths in each conflict.  This was
+harder.  Poisson regression predicts terribly, as does OLS on the log
+of the number of deaths (which I tried to bring in the distribution a
+bit).  Christing suggested that I tried a decision tree, which I have
+implemented as well.  It is better than either of other the two models, but
+it still does not do a good job predicting.  The answer to this
+question is that maybe there are other things driving the exact number
+of deaths that my dataset does not capture.
+
+(3)
+I made a great (at least, I think it's great) map graphic illustrating
+the locations of some of these conflicts.  This graphic is thanks to
+Christine's suggestion.
+
+(4)
+I wrote captions for all of my figures and tables, readying my work
+for midterm.
+
+
+Goals for the upcoming week:
+This is the last work week before midterm!  I want to continue working
+on my model for the number of deaths, but by Wednesday or so I want to
+be done with work and spend time tidying up my code and making
+slides.  The modeling section of my code needs some explanations and
+some work done to describe my process.  Then I'm good for
+midterm and my presentation.
