@@ -1,0 +1,20 @@
+Matt Boyas
+STAT 222
+16 March 2014
+Sunday Update
+ 
+This week I spent time on the following items.
+ 
+(1)
+I finalized my logistic regression process and created a KNN model.
+ 
+(2)
+I worked a bit on my Poisson regression, creating a variable selection
+process and a model.  I also extended the model and compared it to a
+CART decision tree and a KNN.
+ 
+(3)
+I finalized my tables and figures.
+ 
+(4)
+I have a presentation ready to go for tomorrow morning.
