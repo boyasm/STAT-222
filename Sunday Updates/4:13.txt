@@ -1,0 +1,25 @@
+Matt Boyas
+STAT 222
+13 April 2014
+Sunday Update
+ 
+This week I spent time on the following items.
+ 
+(1)
+I created my test suite as a separate iPython Notebook that generates a .py
+file to be run using nosetests in the Terminal.  I have 13 tests, all of which
+run correctly.  Since I was unable to reference code cells in another iPython
+notebook, I copied the code from my main notebook into my testing
+notebook at Victoria's suggestion.
+ 
+(2)
+In the process of writing the test suite, I discovered a potential bug in one of
+my sets of code to merge two datasets.  The output of my original code ended
+up being correct, but it was correct by chance, and future versions of the datasets
+could potentially result in errors.  I patched that potential bug.  Results are exactly
+the same as before, but now the code is more robust.
+ 
+(3)
+I continued the planning phases of my final paper, and I plan on getting
+a draft written by the end of this coming week/beginning of the following week.
+That way I have over two weeks to edit and polish before the deadline.
