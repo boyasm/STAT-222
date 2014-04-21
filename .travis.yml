@@ -4,8 +4,8 @@ python:
 
 
 install: pip install numpy
-pip install pandas
-pip install matplotlib
-pip install scipy
+install: pip install pandas
+install: pip install matplotlib
+install: pip install scipy
 
 script:  nosetests boyas_test.py
