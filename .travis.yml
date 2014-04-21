@@ -3,9 +3,6 @@ python:
   - "2.7"
 
 
-install: pip install numpy
-install: pip install pandas
-install: pip install matplotlib
-install: pip install scipy
+install: "pip install ."
 
-script:  nosetests boyas_test.py
+script:  nosetests
