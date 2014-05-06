@@ -1,5 +1,3 @@
-((* extends "html_full.tpl" *))
-
-((* block input scoped *))
-((* endblock input *))
-
+{%- extends 'fullhtml.tpl' -%}
+{% block input %}
+{%- endblock input %}
