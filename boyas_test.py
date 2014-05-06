@@ -264,3 +264,4 @@ def test_13():
 
     #test assert (all are predicted correctly as zeros, so we know what the matrix should look like)
     np.testing.assert_array_equal( predAnalysis, np.array([[8000,0],[0,0]]) )
+    
