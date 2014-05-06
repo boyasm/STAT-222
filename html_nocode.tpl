@@ -4,6 +4,6 @@
 
 {%- block output_group -%}
    {%- for output in cell.outputs -%}
-        {{%- render_output(output) -%}}
+        {%- render_output(output) -%}
    {%- endfor -%}
 {%- endblock -%}
