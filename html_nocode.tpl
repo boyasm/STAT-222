@@ -1,5 +1,5 @@
-((* extends "latex_article.tplx" *))
-% disable input cells
+((* extends "html_full.tpl" *))
+
 ((* block input scoped *))
 ((* endblock input *))
 
