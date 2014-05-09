@@ -3,7 +3,7 @@ STAT-222
 
 Spring 2014, UC Berkeley STAT 222
 
-This repository represents the entire workflow of documents related to STAT 222: MA Capstone Course taken as a part of the University of California, Berkeley Master's in Statistics graduate program.  All original files are copyright Matt Boyas, 2014, and are licensed as specified below.  No warranties are given.
+This repository represents the entire workflow of documents related to STAT 222: MA Capstone Course taken as a part of the University of California, Berkeley Master's in Statistics graduate program.  All original files are copyright Matthew Boyas, 2014, and are licensed as specified below.  No warranties are given.
 
 
 Matthew Boyas <br>
