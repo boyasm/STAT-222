@@ -19,7 +19,7 @@ from IPython.display import display
 from IPython.display import HTML
 
 # This code was written using Scipy 0.13.3, Numpy 1.6.1, Pandas 0.12.0, XLRD 0.9.2, Matplotlib Basemap 1.0.6, GEOS 3.3.3
-# It may not be compatibile with other module versions
+# It may not be compatible with other module versions
 # Code version 14 April 2014
 # No known bugs
 
